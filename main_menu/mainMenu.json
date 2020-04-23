@@ -1,0 +1,12 @@
+{
+    "menuItems": [
+        {
+            "name": "Задолженность",
+            "className": "CreditBot"
+        },
+        {
+            "name": "Статусы заявок",
+            "className": "OffersStatusBot"
+        }
+    ]
+}
